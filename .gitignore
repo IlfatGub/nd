@@ -1,0 +1,11 @@
+public/web/assets/*
+public/web/uploads/*
+public/web/invite*
+public/web/uploads/*
+public/web/files/*
+public/assets/*
+public/tests/*
+public/runtime/*
+
+.vscode/
+logs/*
